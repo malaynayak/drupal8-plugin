@@ -1,0 +1,12 @@
+calculator.list:
+  path: '/admin/calculator'
+  defaults:
+    _controller: '\Drupal\calculator\controller\CalculatorController::list'
+  requirements:
+    _permission: 'administer site configuration'
+calculator.load:
+  path: '/admin/calculator/{id}'
+  defaults:
+    _controller: '\Drupal\calculator\controller\CalculatorController::load'
+  requirements:
+    _permission: 'administer site configuration'

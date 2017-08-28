@@ -1,0 +1,4 @@
+services:
+  plugin.manager.calculator:
+    class: Drupal\calculator\CalculatorPluginManager
+    parent: default_plugin_manager

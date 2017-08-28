@@ -1,0 +1,5 @@
+name: Calculator
+type: module
+description: Calculator Plugin Module
+core: 8.x
+package: Custom
