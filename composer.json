@@ -1,0 +1,11 @@
+{
+    "name": "malay.nayak/drupal8-demo-plugin",
+    "description": "Demo Drupal8 Plugin",
+    "authors": [
+        {
+            "name": "Malay Nayak",
+            "email": "malay.kanta.nayak@gmail.com"
+        }
+    ],
+    "require": {}
+}
